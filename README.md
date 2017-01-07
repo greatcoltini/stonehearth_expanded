@@ -2,13 +2,17 @@
 
 ##1: What Does This Add?
 Adds all mods that are being worked on by myself, the features included are:
-- Adds more requirements as you ascend the job tree in Stonehearth.
 - Rearranges the blacksmith to promote from the mason.
 - Adds more items to the world of Stonehearth:
   * Adds Stone Bed and Fine Stone Bed (crafted by Mason)
   * Adds Comfy Stone Bed and Fine Comfy Stone Bed (crafted by Mason)
   * Adds Comfy Stone Chair and Fine Comfy Stone Chair (crafted by Mason)
   * Adds Impaled Goblin Head (crafted by Carpenter)
+  	* Has VARIANTS! Thus, the heads are randomized upon stick placement
+  * Adds Impaled Necromancer Head (crafted by Carpenter)
+  * Adds Impaled Orc Head (crafted by Carpenter)
+  * Adds Impaled Kobold Head (crafted by Carpenter)
+  * Adds Impaling Stick (crafted by Carpenter)
   * Adds Mage and Mage's Equipment (Staff, Hood, Outfit)
   * Adds Librarian and equipment (Workshop, Outfit, Book)
   * Adds Cows and Cow related items (Milk, Cheese, Raw and Cooked Steak)
@@ -52,6 +56,16 @@ Version 0.11:
 
 Version 0.115:
 - Added Mage's Staff recipe (Carpenter)
+
+Version 0.12:
+ - Added Impaled Goblin Head (crafted by Carpenter)
+  *  Has VARIANTS! Thus, the heads are randomized upon stick placement
+ - Added Impaled Necromancer Head (crafted by Carpenter)
+ - Added Impaled Orc Head (crafted by Carpenter)
+ - Added Impaled Kobold Head (crafted by Carpenter)
+ - Added Impaling Stick (crafted by Carpenter)
+ - Removed more requirements as you ascend the job tree in Stonehearth.
+   * Will add once this is in a more finished state
 
 ##4: Bugs
 - Mages spells do not switch models -> wip
