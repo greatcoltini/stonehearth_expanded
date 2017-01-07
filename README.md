@@ -32,9 +32,18 @@ Version 0.1:
 - Added Stone Bed and Fine Stone Bed
 - Added Paper, Book items
 
+Version 0.11:
+- Added Comfy Stone Bed and Fine Comfy Stone Bed (from Mason)
+ - Added Comfy Stone Bed sleeping variants
+- Added Comfy Stone Chair and Fine Comfy Stone Chair (Mason)
+- Added new model for female mage outfit and hood
+- Added Impaled Goblin Head (Carpenter for now)
+- Redid model for Paper
+- Redid steak, raw steak. and steak serving models
+	- aligned steak models properly
+- Redid milk bucket model
+
 ##4: Bugs
-- Scaling issues with steak and raw steak -> will be dealt with when models are redone
 - Mages spells do not switch models -> wip
 - Librarian functionally useless -> wip
-- Mage's outfit for females unfinished
-- Paper and books look weird -> wip
+- books look weird -> wip
