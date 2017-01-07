@@ -6,6 +6,9 @@ Adds all mods that are being worked on by myself, the features included are:
 - Rearranges the blacksmith to promote from the mason.
 - Adds more items to the world of Stonehearth:
   * Adds Stone Bed and Fine Stone Bed (crafted by Mason)
+  * Adds Comfy Stone Bed and Fine Comfy Stone Bed (crafted by Mason)
+  * Adds Comfy Stone Chair and Fine Comfy Stone Chair (crafted by Mason)
+  * Adds Impaled Goblin Head (crafted by Carpenter)
   * Adds Mage and Mage's Equipment (Staff, Hood, Outfit)
   * Adds Librarian and equipment (Workshop, Outfit, Book)
   * Adds Cows and Cow related items (Milk, Cheese, Raw and Cooked Steak)
@@ -13,6 +16,10 @@ Adds all mods that are being worked on by myself, the features included are:
 - Adds several schematics unlocked as jobs are made for the buildings:
   * Weavers Workshop (Ascendancy)
   * Masonry (Ascendancy)
+- Adds Cows to the world of Stonehearth!
+  * Cows are found by the shepherd in the wild
+  * Cows drop buckets of milk to be used in making cheese!
+  * Cows can be farmed for raw steak, which can be cooked and eaten.
   
 
 ##2: How do I install?
