@@ -50,6 +50,9 @@ Version 0.11:
 	- aligned steak models properly
 - Redid milk bucket model
 
+Version 0.115:
+- Added Mage's Staff recipe (Carpenter)
+
 ##4: Bugs
 - Mages spells do not switch models -> wip
 - Librarian functionally useless -> wip
