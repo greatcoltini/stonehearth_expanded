@@ -12,6 +12,10 @@ Adds all mods that are being worked on by myself, the features included are:
   * Adds Impaled Necromancer Head (crafted by Carpenter)
   * Adds Impaled Orc Head (crafted by Carpenter)
   * Adds Impaled Kobold Head (crafted by Carpenter)
+  * Adds Impaled Skeleton Head (crafted by Carpenter)
+  	* Has 2 Variants!
+  * Adds Impaled Zombie Head (crafted by Carpenter)
+  	* Has 5 Variants!
   * Adds Impaling Stick (crafted by Carpenter)
   * Adds Mage and Mage's Equipment (Staff, Hood, Outfit)
   * Adds Librarian and equipment (Workshop, Outfit, Book)
