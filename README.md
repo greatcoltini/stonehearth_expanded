@@ -67,6 +67,17 @@ Version 0.12:
  - Removed more requirements as you ascend the job tree in Stonehearth.
    * Will add once this is in a more finished state
 
+Version 0.13:
+ - Added Impaled Zombie Heads (crafted by Carpenter)
+  * Has 5 Variants! Heads are randomized upon placement of the object
+ - Added Impaled Skeleton Heads (crafted by Carpenter)
+  * Has 2 Variants! Randomized upon placement
+ - Changed drop rates
+  * All mobs will drop the heads with a 100% drop rate (subject to change)
+ - Fixed bug where Stockpile menu did not show the Impaled Heads properly
+ 
+ 
+
 ##4: Bugs
 - Mages spells do not switch models -> wip
 - Librarian functionally useless -> wip
