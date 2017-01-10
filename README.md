@@ -1,4 +1,4 @@
-# Stonehearth Expanded (V0.13)
+# Stonehearth Expanded (V0.14)
 
 ##1: What Does This Add?
 Adds all mods that are being worked on by myself, the features included are:
