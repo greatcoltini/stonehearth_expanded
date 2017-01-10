@@ -21,6 +21,8 @@ Adds all mods that are being worked on by myself, the features included are:
   * Adds Librarian and equipment (Workshop, Outfit, Book)
   * Adds Cows and Cow related items (Milk, Cheese, Raw and Cooked Steak)
   * Adds Paper and Books (crafted by Carpenter)
+  * Adds Statues (see Update 0.14)
+  * Adds Bookcases
 - Adds several schematics unlocked as jobs are made for the buildings:
   * Weavers Workshop (Ascendancy)
   * Masonry (Ascendancy)
@@ -28,6 +30,8 @@ Adds all mods that are being worked on by myself, the features included are:
   * Cows are found by the shepherd in the wild
   * Cows drop buckets of milk to be used in making cheese!
   * Cows can be farmed for raw steak, which can be cooked and eaten.
+- Adds Mages
+  * Mages have 3 projectile types they choose for varying combat situations
   
 
 ##2: How do I install?
@@ -39,7 +43,7 @@ Adds all mods that are being worked on by myself, the features included are:
 
 ##3: Versions
 
-Version 0.1:
+###Version 0.1:
 - Added Cow, Cow Pasture, Milk Bucket, Cheese Wheel, Raw Steak, Cooked Steak
 - Added Mage, Mage's outfit, Mage's staff, Several WIP Mage spells
 - Added Librarian and Librarian workshop
@@ -47,7 +51,7 @@ Version 0.1:
 - Added Stone Bed and Fine Stone Bed
 - Added Paper, Book items
 
-Version 0.11:
+###Version 0.11:
 - Added Comfy Stone Bed and Fine Comfy Stone Bed (from Mason)
  - Added Comfy Stone Bed sleeping variants
 - Added Comfy Stone Chair and Fine Comfy Stone Chair (Mason)
@@ -58,10 +62,10 @@ Version 0.11:
 	- aligned steak models properly
 - Redid milk bucket model
 
-Version 0.115:
+###Version 0.115:
 - Added Mage's Staff recipe (Carpenter)
 
-Version 0.12:
+###Version 0.12:
  - Added Impaled Goblin Head (crafted by Carpenter)
   *  Has VARIANTS! Thus, the heads are randomized upon stick placement
  - Added Impaled Necromancer Head (crafted by Carpenter)
@@ -71,7 +75,7 @@ Version 0.12:
  - Removed more requirements as you ascend the job tree in Stonehearth.
    * Will add once this is in a more finished state
 
-Version 0.13:
+###Version 0.13:
  - Added Impaled Zombie Heads (crafted by Carpenter)
   * Has 5 Variants! Heads are randomized upon placement of the object
  - Added Impaled Skeleton Heads (crafted by Carpenter)
@@ -80,6 +84,24 @@ Version 0.13:
   * All mobs will drop the heads with a 100% drop rate (subject to change)
  - Fixed bug where Stockpile menu did not show the Impaled Heads properly
  
+###Version 0.14:
+ - Added Stuffed Animals (Pose is bracketed)
+  * Stuffed Entling (Still)
+  * Stuffed Kobold (Still)
+  * Stuffed Ogre (Still)
+  * Stuffed Poyo (Still)
+  * Stuffed Rabbit (Still)
+  * Stone Golem Statue - Little (Still)
+  * Stone Golem Statue (Still)
+  * Stuffed Wolf (Standing and Still)
+  * Stuffed Zombie (Still)
+ - Changed Impaled Head recipe to be: Head + Impaling Stick
+ - Changed leveling schema for Decoration items the Carpenter crafts
+ - Added decorative bookcases
+  * Empty
+  * Filled
+ - Various stockpile issues and missing names fixed
+ - Mage projectiles now properly change
  
 
 ##4: Bugs
