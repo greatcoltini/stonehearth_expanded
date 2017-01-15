@@ -22,6 +22,7 @@ Adds all mods that are being worked on by myself, the features included are:
   * Adds Cows and Cow related items (Milk, Cheese, Raw and Cooked Steak)
   * Adds Paper and Books (crafted by Carpenter)
   * Adds Statues (see Update 0.14)
+	* Expands Statues! (see Update 0.15)
   * Adds Bookcases
 - Adds several schematics unlocked as jobs are made for the buildings:
   * Weavers Workshop (Ascendancy)
@@ -32,6 +33,9 @@ Adds all mods that are being worked on by myself, the features included are:
   * Cows can be farmed for raw steak, which can be cooked and eaten.
 - Adds Mages
   * Mages have 3 projectile types they choose for varying combat situations
+- Adds Taxidermist
+  * Promoted from the Carpenter with a Taxidermist's Carver (crafted by the Carpenter)
+  * Creates statues and impaled heads from resources and monster parts!
   
 
 ##2: How do I install?
@@ -103,8 +107,23 @@ Adds all mods that are being worked on by myself, the features included are:
  - Various stockpile issues and missing names fixed
  - Mage projectiles now properly change
  
+###Version 0.15:
+- Added more Statues!
+  * Stuffed Skeleton
+  * Stuffed Necromancer
+  * Stuffed Varanus
+  * Stuffed Sheep
+  * Stuffed Red Fox
+  * Stuffed Squirrel
+  * Stuffed Racoon
+- Added Taxidermist
+  * Promoted from level four Carpenter
+  * Requires Taxidermist Carver (created from Carpenter)
+  * Has his own perks!
+- Removed Librarian until he serves a purpose!
+- Fixed Paper and Book rendering issues!
+- Changed Template Name (Herbalist House was actually Weaver's Workshop)!
+
+ 
 
 ##4: Bugs
-- Mages spells do not switch models -> wip
-- Librarian functionally useless -> wip
-- books look weird -> wip
