@@ -36,6 +36,8 @@ Adds all mods that are being worked on by myself, the features included are:
 - Adds Taxidermist
   * Promoted from the Carpenter with a Taxidermist's Carver (crafted by the Carpenter)
   * Creates statues and impaled heads from resources and monster parts!
+- Adds 'Fine' Statues
+  * Statues now have 'Fine' variations, so as your Taxidermist levels you can show off your skill!
   
 
 ##2: How do I install?
@@ -123,6 +125,15 @@ Adds all mods that are being worked on by myself, the features included are:
 - Removed Librarian until he serves a purpose!
 - Fixed Paper and Book rendering issues!
 - Changed Template Name (Herbalist House was actually Weaver's Workshop)!
+
+###Version 0.16:
+- Added Even More Statues!
+  * Stuffed Shorn Sheep
+  * Stuffed Ent
+- Added more 'Poses'
+  * Mace-Wielding Skeletons with L and R variants
+- Added 'Fine' statues
+  * All statues now have 'Fine' variants so that your Taxidermist can show off his skill!
 
  
 
