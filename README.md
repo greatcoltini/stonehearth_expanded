@@ -135,6 +135,9 @@ Adds all mods that are being worked on by myself, the features included are:
 - Added 'Fine' statues
   * All statues now have 'Fine' variants so that your Taxidermist can show off his skill!
 
+####Version 0.161:
+- Fixed Bookcase recipe glitch
+
  
 
 ##4: Bugs
